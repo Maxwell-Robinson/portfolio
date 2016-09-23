@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
 
-import Link from './link'
 import About from './about'
-import Portfolio from './portfolio'
+import Projects from './projects'
 import Heading from './heading'
 import Blog from './blog'
 import Contact from './contact'
