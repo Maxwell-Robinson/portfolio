@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 
+import Link from './link'
 import About from './about'
 import Projects from './projects'
 import Heading from './heading'
@@ -14,7 +15,7 @@ class App extends Component {
         <Link linkName="About" />
         <Link linkName="Blog" />
         <Heading name={this.props.name} role={this.props.role} />
-        <Link linkName="Portfolio" />
+        <Link linkName="Projects" />
         <Link linkName="Contact" />
       </div>
     )

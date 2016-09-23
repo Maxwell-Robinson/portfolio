@@ -16,26 +16,26 @@ html {
   transform: translate(-50%, -50%);
 }
 
-.about {
+.About {
   position: absolute;
   padding: 1%;
 }
 
-.blog {
+.Blog {
   position: absolute;
   padding: 1%;
   left: 100%;
   transform: translate(-100%, 0%);
 }
 
-.projects {
+.Projects {
   position: absolute;
   padding: 1%;
   top: 100%;
   transform: translate(0%, -100%);
 }
 
-.contact {
+.Contact {
   position: absolute;
   padding: 1%;
   top: 100%;
