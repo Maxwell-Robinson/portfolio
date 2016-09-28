@@ -6,6 +6,8 @@ html {
     linear-gradient(
       #171518, black
     );
+  /*background-image:
+    url(./images/wall/gif);*/
   font-family: 'Lato', sans-serif;
 }
 
@@ -31,14 +33,14 @@ html {
 .Projects {
   position: absolute;
   padding: 1%;
-  top: 100%;
+  top: 98%;
   transform: translate(0%, -100%);
 }
 
 .Contact {
   position: absolute;
   padding: 1%;
-  top: 100%;
+  top: 98%;
   left: 100%;
   transform: translate(-100%, -100%);
 }
